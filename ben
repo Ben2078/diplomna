@@ -354,7 +354,7 @@
 							<div class="single-featured-cars">
 								<div class="featured-img-box">
 									<div class="featured-cars-img">
-										<img src="assets/images/featured-cars/fc1.png" alt="cars">
+										<img src="assets\images\featured-cars\ben.img" alt="cars" width="300">
 									</div>
 									<div class="featured-model-info">
 										<p>
@@ -373,7 +373,30 @@
 									</p>
 								</div>
 							</div>
+							<div class="single-featured-cars">
+								<div class="featured-img-box">
+									<div class="featured-cars-img">
+										<img src="assets/images/featured-cars/fc1.png" alt="cars">
+									</div>
+									<div class="featured-model-info">
+										<p>
+											модел: 2005-2008
+											<span class="featured-mi-span"> </span> 
+											<span class="featured-hp-span"> </span>
+											 
+										</p>
+									</div>
+								</div>
+								<div class="featured-cars-txt">
+									<h2>Спойлер Maxton Design за предна стандартна броня  BMW E90<a href="#"></a></h2>
+								    <h3>303лв</h3>
+									<p>
+										Всички спойлери на Maxton са с изключително високо качество на изработка. За изработката им се използва висок клас ABS пластмаса, която е предназначена за автомобилната индустрия.
+									</p>
+								</div>
+							</div>
 						</div>
+						
 						<div class="col-lg-3 col-md-4 col-sm-6">
 							<div class="single-featured-cars">
 								<div class="featured-img-box">
@@ -394,6 +417,28 @@
 									<h3>300лв</h3>
 									<p>
 										Трилъч кожен волан с пера  придаващ спортен вид на интериора на вашият автомобил.
+									</p>
+								</div>
+							</div>
+							<div class="single-featured-cars">
+								<div class="featured-img-box">
+									<div class="featured-cars-img">
+										<img src="assets/images/featured-cars/fc2.png" alt="cars">
+									</div>
+									<div class="featured-model-info">
+										<p>
+											модел: 2008-2012
+											<span class="featured-mi-span"> </span> 
+											<span class="featured-hp-span"> </span>
+											 
+										</p>
+									</div>
+								</div>
+								<div class="featured-cars-txt">
+									<h2><a href="#">Спойлер за багажник тип OE Style за Audi A4 B8 седан <span></span></a></h2>
+									<h3>300лв</h3>
+									<p>
+										Добавянето на заден спойлер е един от начините, по които автомобилният производител разграничава спортните от обикновените базови модели.
 									</p>
 								</div>
 							</div>
@@ -421,6 +466,28 @@
 									</p>
 								</div>
 							</div>
+							<div class="single-featured-cars">
+								<div class="featured-img-box">
+									<div class="featured-cars-img">
+										<img src="assets/images/featured-cars/fc3.png" alt="cars">
+									</div>
+									<div class="featured-model-info">
+										<p>
+											model: 2004
+											<span class="featured-mi-span"> </span> 
+											<span class="featured-hp-span"> </span>
+											 
+										</p>
+									</div>
+								</div>
+								<div class="featured-cars-txt">
+									<h2><a href="#">Добавки за прагове GTi на Volkswagen Golf 4<span></span></a></h2>
+									<h3>250лв</h3>
+									<p>
+										Добавки за прагове на Volkswagen Golf 4, изработени от еластична ABS пластмаса. Страничните добавки са предназначени за GTi варианта на модела.
+									</p>
+								</div>
+							</div>
 						</div>
 						<div class="col-lg-3 col-md-4 col-sm-6">
 							<div class="single-featured-cars">
@@ -445,9 +512,34 @@
 									</p>
 								</div>
 							</div>
+							<div class="single-featured-cars">
+								<div class="featured-img-box">
+									<div class="featured-cars-img">
+										<img src="assets/images/featured-cars/fc3.png" alt="cars">
+									</div>
+									<div class="featured-model-info">
+										<p>
+											model: 2004
+											<span class="featured-mi-span"> </span> 
+											<span class="featured-hp-span"> </span>
+											 
+										</p>
+									</div>
+								</div>
+								<div class="featured-cars-txt">
+									<h2><a href="#">AMG пакет тип E63 за Mercedes E класа  <span></span></a></h2>
+									<h3>250лв</h3>
+									<p>
+										Скучният външен вид на вашия автомобил, може бързо да бъде преобразен в тунинг. Тунинг пакетите, които предлагаме са произведени от висококачествена и еластична ABS пластмаса. 
+									</p>
+								</div>
+							</div>
+							
 						</div>
+						
+						
 					</div>
-					<div class="row">
+					
 						<div class="col-lg-3 col-md-4 col-sm-6">
 							<div class="single-featured-cars">
 								<div class="featured-img-box">
